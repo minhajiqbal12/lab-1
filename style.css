@@ -1,0 +1,16 @@
+span{
+    font-weight: bold;
+}
+
+h1{
+    color: blue;
+    text-shadow: 5px 5px 20px grey;
+}
+
+h3{
+    color: blue;
+    
+}
+.part-1{
+    text-align: right;
+}
